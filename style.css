@@ -1,0 +1,155 @@
+body{
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+h1{
+  margin-top: 0;
+  font-family: 'Euphoria Script', cursive;
+  font-size: 60px;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+.skill-row{
+  width: 50%;
+  margin: auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  text-align: left;
+}
+
+p{
+    line-height: 2;
+}
+
+h2{
+  font-size: 1.5rem;
+  margin-top: 20px;
+  color: #66BFBF;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3{
+  color: #11999E;
+}
+
+.myPic{
+  border-radius: 100%;
+  width: 15%;
+}
+
+.intro{
+  width: 30%;
+  margin: auto;
+}
+
+.webSkill{
+  border-radius: 100%;
+  width: 200px;
+  height: 200px;
+  float: left;
+  margin-right: 30px;
+}
+
+.brain{
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  float: right;
+  margin-right: 30px;
+}
+
+.topContainer{
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+hr{
+  border: dotted #EAF6F6;
+  width: 4%;
+  margin: 100px auto;
+}
+
+.middleContainer{
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.bottomContainer{
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+.career{
+  text-decoration: underline;
+}
+
+a{
+  color:#11999E;
+  font-family: 'Merriweather Sans', sans-serif;
+  margin: 50px 20px;
+}
+
+a:hover{
+  color: #EAF6F6;
+}
+
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+}
+
+.bottomCloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.topCloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.button {
+	-moz-box-shadow: 0px 1px 0px 0px #bee2f9;
+	-webkit-box-shadow: 0px 1px 0px 0px #bee2f9;
+	box-shadow: 0px 1px 0px 0px #bee2f9;
+	background-color:#63b8ee;
+	-webkit-border-top-left-radius:20px;
+	-moz-border-radius-topleft:20px;
+	border-top-left-radius:20px;
+	-webkit-border-top-right-radius:20px;
+	-moz-border-radius-topright:20px;
+	border-top-right-radius:20px;
+	-webkit-border-bottom-right-radius:20px;
+	-moz-border-radius-bottomright:20px;
+	border-bottom-right-radius:20px;
+	-webkit-border-bottom-left-radius:20px;
+	-moz-border-radius-bottomleft:20px;
+	border-bottom-left-radius:20px;
+	text-indent:0;
+	border:1px solid #3866a3;
+	display:inline-block;
+	color:#14396a;
+	font-family:Arial;
+	font-size:18px;
+	font-weight:normal;
+	font-style:italic;
+	height:65px;
+	line-height:65px;
+	width:131px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #7cacde;
+}.classname:hover {
+	background-color:#0d59a1;
+}.classname:active {
+	position:relative;
+	top:1px;
+}
